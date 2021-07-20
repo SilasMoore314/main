@@ -1,0 +1,157 @@
+
+#gabagool {
+    text-align: center;
+    color: #FFFFFF;
+font-family: Georgia, bold;
+border-collapse: collapse;
+width: 100%;
+}
+
+#gabagool td, #gabagool th {
+border: 1px solid #D3D3D3;
+padding: 7px;
+}
+#gabagool th {
+    background-color: #00008b;
+
+
+}
+#gabagool td {
+    background-color: #FF0000
+
+
+}
+
+#zippo table{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+color: #FFFFFF;
+border-collapse: collapse;
+width: 100%;
+border: 1px solid #D3D3D3;
+padding:7px;
+}
+
+#zippo th {
+    background-color: #66ff00;
+}
+#zippo td {
+background-color: #a9a9a9;
+}
+
+h1 {
+    background-color: #00008b;
+    padding: 10px;
+    color: #FFFFFF;
+    text-align: center;
+
+
+
+}
+
+
+
+
+body {
+    background-color: #171717
+
+
+}
+
+    
+    @media screen and (min-width: 600px) {
+ul {
+    list-style-type: none;
+    font: arial, serif;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #DC143CFF;
+}}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #000000
+}
+.active {
+    background-color: #000000;
+}
+#nina {
+    
+    padding:5px;
+    text-align: left;
+    background-color: #FFFDD0;
+    width: 35%;
+    font: arial, serif;
+    font-size: 20px;
+}
+#img {
+    width: 25%;
+    float: right
+   
+}
+#khabib {
+    float: right;
+    font: arial, serif;
+    color: #FFF;
+    margin-right: 50px;
+
+}
+
+
+#parg1 {
+    text-align: center;
+    font: arial, serif;
+    color: #fff;
+    border: 1px solid #00008b;
+    padding: 5px;
+    font-size: 20px;
+
+}
+#lafoot {
+    background-color: #000000;
+    padding: 65px;
+    color: white;
+    text-align: center;
+}
+h2 {
+
+    color: white;
+    font: arial, serif;
+    text-align: center;
+}
+
+#pizza {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ th, td {
+    border: 1px solid red;
+    padding: 40px;
+    color: white
+}
+#wins {
+    color: #90ee90
+}
+
+#tt1, #tt2{
+    border: 0px;
+}
