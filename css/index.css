@@ -155,3 +155,18 @@ h2 {
 #tt1, #tt2{
     border: 0px;
 }
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: 1px solid #DC143C;
+    outline: none;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin:0;
+}
